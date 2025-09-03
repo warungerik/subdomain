@@ -27,7 +27,7 @@ Untuk menjalankan alat ini, Anda hanya memerlukan Python 3. Ikuti langkah-langka
 **1. Clone Repositori**
 
 ```bash
-git clone [https://github.com/warungerik/subdomain.git](https://github.com/warungerik/subdomain.git)
+git clone https://github.com/warungerik/subdomain.git
 cd subdomain
 ```
 **2. Instal Dependensi**
